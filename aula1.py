@@ -1,2 +1,4 @@
 msg= input('Digite seu nome')
 print(f'Seu nome é {msg}')
+
+print('Aula de exemplo')
